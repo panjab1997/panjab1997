@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panjab1997&label=Profile%20views&color=0e75b6&style=flat" alt="panjab1997" /> </p>
 
-- 🌱 I’m currently learning **Big Data Hadoop , Apache Spark**
-
-- 📝 I recently started writing blogs [https://www.blogger.com/profile/12212914397012592913](https://www.blogger.com/profile/12212914397012592913)
-
 - 📫 How to reach me **panjabs926@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
